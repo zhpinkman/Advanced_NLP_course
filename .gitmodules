@@ -1,0 +1,9 @@
+[submodule "Advanced_NLP_course_HW1"]
+	path = Advanced_NLP_course_HW1
+	url = git@github.com:zhpinkman/Advanced_NLP_course_HW1.git
+[submodule "Advanced_NLP_course_HW2"]
+	path = Advanced_NLP_course_HW2
+	url = git@github.com:zhpinkman/Advanced_NLP_course_HW2.git
+[submodule "Advanced_NLP_course_HW3"]
+	path = Advanced_NLP_course_HW3
+	url = git@github.com:zhpinkman/Advanced_NLP_course_HW3.git
